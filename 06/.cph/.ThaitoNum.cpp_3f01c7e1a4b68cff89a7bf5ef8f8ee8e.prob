@@ -1,0 +1,1 @@
+{"name":"Local: ThaitoNum","url":"c:\\CEDT\\Comprog\\06\\ThaitoNum.cpp","tests":[{"id":1724379112700,"input":"soon\nneung\nsong\nsam\nsi\nha\nhok\nchet\npaet\nkao\nq","output":"0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CEDT\\Comprog\\06\\ThaitoNum.cpp","group":"local","local":true}
